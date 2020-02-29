@@ -1,0 +1,25 @@
+{
+  "name": "official-portfolio",
+  "version": "1.0.0",
+  "description": "Official portfolio website for Alston D.L. Garrett",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neytoro/Official-Portfolio.git"
+  },
+  "author": "Alston D.L. Garrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neytoro/Official-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Neytoro/Official-Portfolio#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-strap": "0.0.1"
+  }
+}
